@@ -1,5 +1,5 @@
 # Grammys-Project
-# Website Analytics Dashboard in Microsoft Excel
+# Website Analytics in Microsoft Excel
 
 ## Project Overview
 
@@ -14,10 +14,8 @@ How did the 2022 split of Grammy.com and RecordingAcademy.com affect website eng
 - Microsoft Excel
 - PivotTables
 - XLOOKUP
-- IF Statements
 - SUMIFS
 - AVERAGEIFS
-- Conditional Formatting
 - Data Cleaning
 - KPI Analysis
 - Dashboard Development
@@ -32,6 +30,8 @@ Using advanced Excel functions and analytical techniques, I:
 - Identified trends in visitor behavior and engagement
 - Built an interactive dashboard to summarize findings
 
+  
+
 ## Key Insights
 
 - Compared engagement metrics between Grammy.com and RecordingAcademy.com after the 2022 split.
@@ -39,11 +39,7 @@ Using advanced Excel functions and analytical techniques, I:
 - Identified performance trends that helped assess the business impact of the website separation.
 - Presented findings through a visual Excel dashboard.
 
-## Dashboard
 
-*(Insert screenshot here)*
-
-![Dashboard](dashboard.png)
 
 ## Repository Contents
 
